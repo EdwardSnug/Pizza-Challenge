@@ -1,0 +1,25 @@
+{
+  "name": "pizza-code-challenge",
+  "version": "1.0.0",
+  "description": "In this code challenge, you'll be working with a Pizza Restaurant domain.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "scheduler": "^0.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardSnug/python-phase-4-code-challenge-pizza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardSnug/python-phase-4-code-challenge-pizza/issues"
+  },
+  "homepage": "https://github.com/EdwardSnug/python-phase-4-code-challenge-pizza#readme"
+}
