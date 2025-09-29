@@ -105,7 +105,7 @@ def create_restaurant_pizza():
     except Exception as e:
         db.session.rollback()
         # Return 400 for validation errors
-        return jsonify({"errors": ["validation errors", str(e)]}), 400
+        return {"errors": ["validation errors"]}, 400
 
 if __name__ == "__main__":
     app.run(port=5555, debug=True)
